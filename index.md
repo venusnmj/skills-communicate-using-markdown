@@ -5,3 +5,7 @@
 ``` javascript
 var helloWorldString = "Hello, world!";
 ```
+
+- [x] Learn how to use GitHub
+- [ ] Learn Markdown Language
+- [ ] More courses
